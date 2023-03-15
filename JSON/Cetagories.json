@@ -1,0 +1,35 @@
+[
+    {
+         "id":"offer",
+        "name":"Deals",
+        "image":"https://p.kindpng.com/picc/s/123-1232952_discount-sign-hd-png-download.png",
+        "product":[
+
+        ]
+    },
+    {
+         "id":"mobile",
+        "name":"Mobiles",
+        "image":"https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Background-Image.png",
+        "product":[
+
+        ]
+    },
+    {
+         "id":"dress",
+        "name":"Fashion",
+        "image":"https://e7.pngegg.com/pngimages/251/531/png-clipart-suit-clothing-t-shirt-fashion-men-s-products-formal-wear-black-tie-thumbnail.png",
+        "product":[
+
+        ]
+    },
+    {
+         "id":"offer1",
+        "name":"Deals",
+        "image":"https://p.kindpng.com/picc/s/123-1232952_discount-sign-hd-png-download.png",
+        "product":[
+
+        ]
+    },
+
+]
